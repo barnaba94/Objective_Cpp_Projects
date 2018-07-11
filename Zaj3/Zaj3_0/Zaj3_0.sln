@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zaj3_0", "Zaj3_0\Zaj3_0.vcproj", "{C8D9077E-1B4A-4F3D-8E4D-CC8F65B65CFB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zaj3_1", "Zaj3_1\Zaj3_1.vcproj", "{79DE26D8-3F34-4A4B-BCE8-3D48AAC20423}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zaj3_2", "Zaj3_2\Zaj3_2.vcproj", "{21B92060-0B25-4B53-BF04-739F3C1DAE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D9077E-1B4A-4F3D-8E4D-CC8F65B65CFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C8D9077E-1B4A-4F3D-8E4D-CC8F65B65CFB}.Debug|Win32.Build.0 = Debug|Win32
+		{C8D9077E-1B4A-4F3D-8E4D-CC8F65B65CFB}.Release|Win32.ActiveCfg = Release|Win32
+		{C8D9077E-1B4A-4F3D-8E4D-CC8F65B65CFB}.Release|Win32.Build.0 = Release|Win32
+		{79DE26D8-3F34-4A4B-BCE8-3D48AAC20423}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79DE26D8-3F34-4A4B-BCE8-3D48AAC20423}.Debug|Win32.Build.0 = Debug|Win32
+		{79DE26D8-3F34-4A4B-BCE8-3D48AAC20423}.Release|Win32.ActiveCfg = Release|Win32
+		{79DE26D8-3F34-4A4B-BCE8-3D48AAC20423}.Release|Win32.Build.0 = Release|Win32
+		{21B92060-0B25-4B53-BF04-739F3C1DAE55}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21B92060-0B25-4B53-BF04-739F3C1DAE55}.Debug|Win32.Build.0 = Debug|Win32
+		{21B92060-0B25-4B53-BF04-739F3C1DAE55}.Release|Win32.ActiveCfg = Release|Win32
+		{21B92060-0B25-4B53-BF04-739F3C1DAE55}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
